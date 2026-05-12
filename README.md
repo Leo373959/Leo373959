@@ -34,9 +34,9 @@ Bilingual (French/Arabic) gamified learning platform for Moroccan high school st
 Multi-tenant SaaS platform that gives businesses an autonomous WhatsApp customer support agent powered by Claude AI. Supports multiple AI providers (Anthropic, OpenAI, DeepSeek), deployed to production.  
 `TypeScript` `Claude AI` `PostgreSQL` `Redis` `Vercel`
 
-### 🏗️ AerosealGTA Website *(private)*
-7-page professional business website with a service selector, 2-step booking contact flow, and a mobile-optimized navbar.  
-`TypeScript` `Next.js` `Tailwind CSS`
+### 🤖 Agency Workspace — Multi-Agent Sales Pipeline *(private)*
+Built with a team of 3, this was a full outreach pipeline where 3 AI agents each had a dedicated role — one handled profiling and campaign strategy, one did scraping, building and server ops, and one ran QA and audits. No agent could self-approve its own work; every stage was cross-checked by a different bot. The agents coordinated through a shared API and a central lead database. Shelved due to running costs, but the system worked end to end.  
+`Python` `Multi-Agent` `SQLite` `REST API` `Outreach Automation`
 
 ---
 
